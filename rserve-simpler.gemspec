@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["John Prince"]
   s.date = %q{2011-02-14}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{Rserve is a fantastic tool, and the ruby port of the client is a great tool.  This leverages these great capabilities with some simple tools, just to make life a little easier.}
   s.email = %q{jtprince@gmail.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
